@@ -13,9 +13,9 @@ This system follows the system overview diagram below:
 
 ## Results
 
-Below are results at Test Bench #1 values after running this program using Visual Studio 2019.
+Below are results at Test Bench #1 and #2 values after running this program using Visual Studio 2019.
 
-| ![image](https://user-images.githubusercontent.com/76612427/116780276-78fe0e80-aa30-11eb-998b-05cdfc69f9d8.png) | ![image](https://user-images.githubusercontent.com/76612427/116780285-84e9d080-aa30-11eb-949b-446e9ca9ea29.png) |
+| ![image](https://user-images.githubusercontent.com/76612427/116780346-004b8200-aa31-11eb-926e-34a83fe74636.png) | ![image](https://user-images.githubusercontent.com/76612427/116780342-f590ed00-aa30-11eb-9a34-ffae12914382.png) |
 | --- | --- |
 
 
