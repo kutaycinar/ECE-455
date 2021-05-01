@@ -1,0 +1,29 @@
+﻿  main_dds.c
+C:\Users\gmail\Documents\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_dds.c(245,35): warning C4100: 'xTimer': unreferenced formal parameter
+C:\Users\gmail\Documents\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_dds.c(250,35): warning C4100: 'xTimer': unreferenced formal parameter
+C:\Users\gmail\Documents\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_dds.c(255,35): warning C4100: 'xTimer': unreferenced formal parameter
+C:\Users\gmail\Documents\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_dds.c(260,37): warning C4100: 'xTimer': unreferenced formal parameter
+C:\Users\gmail\Documents\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_dds.c(267,25): warning C4100: 'pvParameters': unreferenced formal parameter
+C:\Users\gmail\Documents\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_dds.c(277,18): warning C4189: 'overdueTask': local variable is initialized but not referenced
+C:\Users\gmail\Documents\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_dds.c(276,18): warning C4189: 'completedTasks': local variable is initialized but not referenced
+C:\Users\gmail\Documents\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_dds.c(275,18): warning C4189: 'activeTasks': local variable is initialized but not referenced
+C:\Users\gmail\Documents\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_dds.c(290,1): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int (*)[4]'
+C:\Users\gmail\Documents\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_dds.c(284,23): warning C4100: 'pvParameters': unreferenced formal parameter
+C:\Users\gmail\Documents\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_dds.c(325,1): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int (*)[4]'
+C:\Users\gmail\Documents\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_dds.c(320,23): warning C4100: 'pvParameters': unreferenced formal parameter
+C:\Users\gmail\Documents\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_dds.c(364,1): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int (*)[4]'
+C:\Users\gmail\Documents\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_dds.c(359,23): warning C4100: 'pvParameters': unreferenced formal parameter
+C:\Users\gmail\Documents\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_dds.c(413,82): warning C4020: 'create_dd_task': too many actual parameters
+C:\Users\gmail\Documents\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_dds.c(398,28): warning C4100: 'pvParameters': unreferenced formal parameter
+C:\Users\gmail\Documents\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_dds.c(431,82): warning C4020: 'create_dd_task': too many actual parameters
+C:\Users\gmail\Documents\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_dds.c(419,28): warning C4100: 'pvParameters': unreferenced formal parameter
+C:\Users\gmail\Documents\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_dds.c(452,82): warning C4020: 'create_dd_task': too many actual parameters
+C:\Users\gmail\Documents\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_dds.c(437,28): warning C4100: 'pvParameters': unreferenced formal parameter
+C:\Users\gmail\Documents\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_dds.c(534,25): warning C4456: declaration of 'node' hides previous local declaration
+C:\Users\gmail\Documents\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_dds.c(523,19): message : see declaration of 'node'
+C:\Users\gmail\Documents\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_dds.c(472,25): warning C4100: 'pvParameters': unreferenced formal parameter
+C:\Users\gmail\Documents\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_dds.c(717,1): warning C4029: declared formal parameter list different from definition
+C:\Users\gmail\Documents\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_dds.c(808,19): warning C4047: 'return': 'dd_task_list **' differs in levels of indirection from 'dd_task_list *'
+C:\Users\gmail\Documents\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_dds.c(851,22): warning C4047: 'return': 'dd_task_list **' differs in levels of indirection from 'dd_task_list *'
+C:\Users\gmail\Documents\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_dds.c(894,20): warning C4047: 'return': 'dd_task_list **' differs in levels of indirection from 'dd_task_list *'
+  WIN32.vcxproj -> C:\Users\gmail\Documents\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\Debug\RTOSDemo.exe
