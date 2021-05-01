@@ -19,7 +19,7 @@
 #define PRIORITY_HIGH 		2
 #define PRIORITY_MIN 		1
 
-#define MONITOR				pdMS_TO_TICKS(12500)
+#define MONITOR				pdMS_TO_TICKS(333)
 
 /*-------------------- DD Task Structs ---------------------*/
 
@@ -147,34 +147,34 @@ int expectedUser3[] = { 495, 1495, -1 };
 
 /*----------------- Test Task Bench 2 -------------------------*/
 
-#define T1_EXEC				pdMS_TO_TICKS(95)
-#define T1_PERIOD			pdMS_TO_TICKS(250)
-
-#define T2_EXEC				pdMS_TO_TICKS(150)
-#define T2_PERIOD			pdMS_TO_TICKS(500)
-
-#define T3_EXEC				pdMS_TO_TICKS(250)
-#define T3_PERIOD			pdMS_TO_TICKS(750)
-
-int expectedUser1[] = {95, 345, 685, 930, 1095, -1 };
-int expectedUser2[] = {245, 835, 1245, -1 };
-int expectedUser3[] = {590, 1425, -1 };
+//#define T1_EXEC				pdMS_TO_TICKS(95)
+//#define T1_PERIOD			pdMS_TO_TICKS(250)
+//
+//#define T2_EXEC				pdMS_TO_TICKS(150)
+//#define T2_PERIOD			pdMS_TO_TICKS(500)
+//
+//#define T3_EXEC				pdMS_TO_TICKS(250)
+//#define T3_PERIOD			pdMS_TO_TICKS(750)
+//
+//int expectedUser1[] = {95, 345, 685, 930, 1095, -1 };
+//int expectedUser2[] = {245, 835, 1245, -1 };
+//int expectedUser3[] = {590, 1425, -1 };
 
 
 /*----------------- Test Task Bench 3 -------------------------*/
 
-#define T1_EXEC				pdMS_TO_TICKS(100)
-#define T1_PERIOD			pdMS_TO_TICKS(500)
-
-#define T2_EXEC				pdMS_TO_TICKS(200)
-#define T2_PERIOD			pdMS_TO_TICKS(500)
-
-#define T3_EXEC				pdMS_TO_TICKS(200)
-#define T3_PERIOD			pdMS_TO_TICKS(500)
-
-int expectedUser1[] = { 100, 600, 1100, -1 };
-int expectedUser2[] = { 300, 800, 1300, -1 };
-int expectedUser3[] = { 500, 1000, 1500, -1 };
+//#define T1_EXEC				pdMS_TO_TICKS(100)
+//#define T1_PERIOD			pdMS_TO_TICKS(500)
+//
+//#define T2_EXEC				pdMS_TO_TICKS(200)
+//#define T2_PERIOD			pdMS_TO_TICKS(500)
+//
+//#define T3_EXEC				pdMS_TO_TICKS(200)
+//#define T3_PERIOD			pdMS_TO_TICKS(500)
+//
+//int expectedUser1[] = { 100, 600, 1100, -1 };
+//int expectedUser2[] = { 300, 800, 1300, -1 };
+//int expectedUser3[] = { 500, 1000, 1500, -1 };
 
 /*-----------------------------------------------------------*/
 
